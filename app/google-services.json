@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "878990701283",
+    "firebase_url": "https://dentistmonitor-default-rtdb.firebaseio.com",
+    "project_id": "dentistmonitor",
+    "storage_bucket": "dentistmonitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878990701283:android:a127bff56ed4412a7b4bd6",
+        "android_client_info": {
+          "package_name": "com.example.dentistmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878990701283-8f4jfh0su03h2aope3tvv8dv1hckmstc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeO_sVjkUT60Yf7PT6xxnOcF0WoYrz34c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878990701283-8f4jfh0su03h2aope3tvv8dv1hckmstc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

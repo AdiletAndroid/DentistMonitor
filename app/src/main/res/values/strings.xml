@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DentistMonitor</string>
+    <string name="auth_error">Error while signing up</string>
+</resources>
